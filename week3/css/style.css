@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#box1{
+  width:100px;
+  height: 100px;
+  background: url("black.jpg") no-repeat;
+}
+#box2{
+  width:100px;
+  height:100px;
+  background: url("blue.jpg") no-repeat;
+}
+#box3{
+  width:100px;
+  height: 100px;
+  background: url("rock.jpg") no-repeat;
+}
